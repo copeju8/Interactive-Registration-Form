@@ -1,1 +1,2 @@
-# techdegree-project-3
+## Interactive Registration Form
+***This interactive registration form uses JavaScript, validation & jQuery to enhance interactivity. Adjustments to the original CSS settings added visual enhancements, as well as focus to assist the user's navigation through the form.***
