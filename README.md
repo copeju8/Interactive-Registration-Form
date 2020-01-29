@@ -1,2 +1,1 @@
-# Interactive-Registration-Form
-Interactive Registration Form
+# techdegree-project-3
